@@ -1,4 +1,4 @@
-# MobiquityRestAssuredAssignment
+# 1MobiquityRestAssuredAssignment
 
 API Automation with Selenium, Rest-Assured, Java8, Maven, TestNG, docker-compose, gitlab-ci and circleci
 
