@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Mobiquity" preserve-order="true">
+    <parameter name="reTry" value="0"/>
+    <parameter name="env" value=""/>
+    <parameter name="____" value="____"/>
+
+    <test name="Tests">
+        <classes>
+            <class name="APITesting.testCases.verifyUserService"> </class>
+            <class name="APITesting.testCases.verifyPostService"> </class>
+            <class name="APITesting.testCases.verifyEmailService"> </class>
+            <class name="APITesting.testCases.verifyEmailID"> </class>
+        </classes>
+    </test>
+</suite>
